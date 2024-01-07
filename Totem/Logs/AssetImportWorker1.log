@@ -244,3 +244,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 [usbmuxd] Detached: 5 00008130-00164D89007A8D3A
+========================================================================
+Received Import Request.
+  Time since last request: 24084.646175 seconds.
+  path: Assets/Materials/_e2698608-59bd-4227-b8ff-9ce56bf7350a.mat
+  artifactKey: Guid(141c27de3adcb4e78925e81b0dd46697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/_e2698608-59bd-4227-b8ff-9ce56bf7350a.mat using Guid(141c27de3adcb4e78925e81b0dd46697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ae9dc847e525e973e77a5a697f72f0') in 0.770638 seconds 
