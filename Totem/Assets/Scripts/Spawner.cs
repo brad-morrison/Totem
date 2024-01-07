@@ -7,8 +7,11 @@ using TMPro;
 public class Spawner : Totem
 {
     public GameObject totemSpawner;
-    public GameObject totemPrefab;
+    public GameObject currentTotemType;
     public GameObject totemsParent;
+
+    // totems
+    public GameObject bearTotem, wolfTotem, eagleTotem;
 
     public float totemOffsetY, totemTime;
 
@@ -22,9 +25,10 @@ public class Spawner : Totem
     public GameObject SpawnNewTotem()
     {
         StartCoroutine(timedSpawnLock());
-        GameObject newTotem = Instantiate(totemPrefab, totemSpawner.transform.position, Quaternion.identity);
+        currentTotemType = ChooseType();
+        GameObject newTotem = Instantiate(currentTotemType, totemSpawner.transform.position, Quaternion.identity);
         newTotem.transform.parent = totemsParent.transform;
-        newTotem.transform.GetChild(0).GetComponent<TextMeshPro>().text = ChooseType();
+        //newTotem.transform.GetChild(0).GetComponent<TextMeshPro>().text = ChooseType();
         MoveTotemsUp();
         GM.gameManager.activeTotem = newTotem;
         return newTotem;
@@ -36,12 +40,14 @@ public class Spawner : Totem
         totemsParent.transform.DOMoveY(totemsParent.transform.position.y + totemOffsetY, totemTime);
     }
 
-    public string ChooseType()
+    public GameObject ChooseType()
     {
-        string[] types = { "bear", "wolf" };
-        string type = types[Random.Range(0, types.Length)];
-        GM.gameManager.activeTotemType = type;
-        return type;
+        int roll = Random.Range(1, 4);
+        GameObject totem = null;
+        if (roll == 1) totem = bearTotem;
+        if (roll == 2) totem = wolfTotem;
+        if (roll == 3) totem = eagleTotem;
+        return totem;
     }
 
     // -- //
