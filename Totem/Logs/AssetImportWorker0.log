@@ -322,3 +322,21 @@ Received Import Request.
   path: Assets/Materials/_0ad609c9-1a4e-44fb-948e-a0e5f999aa55.mat
   artifactKey: Guid(ff930b4077ed44f1c94c12cd191d86eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/_0ad609c9-1a4e-44fb-948e-a0e5f999aa55.mat using Guid(ff930b4077ed44f1c94c12cd191d86eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdcce7f51a7d81b97d0bd49722d9a18') in 0.284522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.309645 seconds.
+  path: Assets/bear_side.png
+  artifactKey: Guid(85b6e10f300784eb5ada17a393b93903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bear_side.png using Guid(85b6e10f300784eb5ada17a393b93903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c086b6b7ba467c713d7da31ac5d179bf') in 0.035407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.885197 seconds.
+  path: Assets/Materials/bear_side.mat
+  artifactKey: Guid(8af1d20b51db34771a4e4c77472052c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/bear_side.mat using Guid(8af1d20b51db34771a4e4c77472052c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831f60088ee9345a8a0f1769f99b1fe9') in 0.016152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 131.494560 seconds.
+  path: Assets/Materials/bear_side.mat
+  artifactKey: Guid(8af1d20b51db34771a4e4c77472052c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/bear_side.mat using Guid(8af1d20b51db34771a4e4c77472052c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037af8505c51dc06c3fe5439d24f5745') in 0.008658 seconds 
