@@ -438,3 +438,123 @@ Received Import Request.
   path: Assets/Objects/Mound/Mound.obj
   artifactKey: Guid(9ab1e752bc89146ce8238cf4db5ba74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Objects/Mound/Mound.obj using Guid(9ab1e752bc89146ce8238cf4db5ba74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4ebfc8bc2342c88b7f15b74941d2e7') in 0.014464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.060226 seconds.
+  path: Assets/Objects/Mound/Textures
+  artifactKey: Guid(d68359640ad1d492c8bd504efd6bc78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Textures using Guid(d68359640ad1d492c8bd504efd6bc78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc4f86776a03c47ab26e9d46f378b92') in 0.001068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 136.255396 seconds.
+  path: Assets/Objects/Bear Totem/Textures/BearTotem_LowPoly_ZExp_DefaultMaterial_Normal.png
+  artifactKey: Guid(596ef2763b592483699a99e8466ea47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Bear Totem/Textures/BearTotem_LowPoly_ZExp_DefaultMaterial_Normal.png using Guid(596ef2763b592483699a99e8466ea47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c258adb854ee6cd874337c98cd09b5b5') in 0.049466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.516380 seconds.
+  path: Assets/Prefabs/Bear Totem.prefab
+  artifactKey: Guid(d4e0eee7a5af34790880d18aa0b8c6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bear Totem.prefab using Guid(d4e0eee7a5af34790880d18aa0b8c6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff7a9d1738ca67b34f5aa94725d1cf0') in 0.408751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.778486 seconds.
+  path: Assets/Objects/Wolf Totem/WolfTotem.obj
+  artifactKey: Guid(6a5edb759eea14aac840d635e61dd2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem/WolfTotem.obj using Guid(6a5edb759eea14aac840d635e61dd2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77f18487bf8ecbe8116bdca8b86f9f8') in 0.026082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.293380 seconds.
+  path: Assets/Objects/Wolf Totem/Textures
+  artifactKey: Guid(177a5285bab7e46e0a28d95bd3df4247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem/Textures using Guid(177a5285bab7e46e0a28d95bd3df4247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72aa2a3e7658724b59570afd8bf34ada') in 0.001292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.123475 seconds.
+  path: Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_BaseMap.png
+  artifactKey: Guid(1a770459b3a95465ab65b87031d2a2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_BaseMap.png using Guid(1a770459b3a95465ab65b87031d2a2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59fa3e19ffb0be095d60fadd04d9dd71') in 0.013421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_Normal.png
+  artifactKey: Guid(0da4549a97e63427184c46692d026885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_Normal.png using Guid(0da4549a97e63427184c46692d026885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb726118df82f9ca72c61294d52e01c') in 0.007202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.011833 seconds.
+  path: Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_Normal.png
+  artifactKey: Guid(0da4549a97e63427184c46692d026885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_Normal.png using Guid(0da4549a97e63427184c46692d026885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc92623a97a84a03b901313e01f1195') in 0.007907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.986071 seconds.
+  path: Assets/Prefabs/Wolf Totem.prefab
+  artifactKey: Guid(83c5e17d8af2648378f4eabd131e0899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wolf Totem.prefab using Guid(83c5e17d8af2648378f4eabd131e0899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb2d21a4f26e41be31b657e3e8d4c72') in 0.008767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.552669 seconds.
+  path: Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_BaseMap.png
+  artifactKey: Guid(35a5753f1211341d4b64cead74c94869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_BaseMap.png using Guid(35a5753f1211341d4b64cead74c94869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74cbe6d733e6d59b9bb3045780fb0603') in 0.016486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.192046 seconds.
+  path: Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_Normal.png
+  artifactKey: Guid(9a8a7ce6d5b294b9a85e634513c0ee5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_Normal.png using Guid(9a8a7ce6d5b294b9a85e634513c0ee5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58749d649e9d852a2d3bcc43984c3f94') in 0.007312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.563618 seconds.
+  path: Assets/Prefabs/Eagle Totem.prefab
+  artifactKey: Guid(bfd589773d920489aad420e17f41b339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Eagle Totem.prefab using Guid(bfd589773d920489aad420e17f41b339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fb0a864c278e036f778fec49d9af4b') in 0.006515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.358523 seconds.
+  path: Assets/Objects/Mound/Textures/Mound_LowPoly_ZExp_DefaultMaterial_BaseMap.png
+  artifactKey: Guid(15bfe18026f1c4b1e80eca75b1384a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Textures/Mound_LowPoly_ZExp_DefaultMaterial_BaseMap.png using Guid(15bfe18026f1c4b1e80eca75b1384a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e00ac9075e0481c636b743c63cb522') in 0.012734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Objects/Mound/Textures/Mound_LowPoly_ZExp_DefaultMaterial_Normal.png
+  artifactKey: Guid(5cf71dc1027944a52bd2cfc1155737ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Textures/Mound_LowPoly_ZExp_DefaultMaterial_Normal.png using Guid(5cf71dc1027944a52bd2cfc1155737ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6268e91630a87281351b7e0cd7c497') in 0.007244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.337615 seconds.
+  path: Assets/Objects/Mound/Materials
+  artifactKey: Guid(c35440452d0714ff6997faca34724f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Materials using Guid(c35440452d0714ff6997faca34724f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c3a50e7212cfc173abecab741d0207') in 0.000897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.947468 seconds.
+  path: Assets/Objects/Mound/Materials/Grass.mat
+  artifactKey: Guid(928f4130d7c4247579ff5b85a644e11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Materials/Grass.mat using Guid(928f4130d7c4247579ff5b85a644e11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bed4fac9e8de9bc10a2aa52a04ac4cd') in 0.033227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.043652 seconds.
+  path: Assets/Prefabs/Mound.prefab
+  artifactKey: Guid(7b241f4e9bc3d4f3eb4bcd596e2e65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mound.prefab using Guid(7b241f4e9bc3d4f3eb4bcd596e2e65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355e26e4c93df5276b607fa95513fe59') in 0.005722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.098631 seconds.
+  path: Assets/Prefabs/Bear Totem.prefab
+  artifactKey: Guid(d4e0eee7a5af34790880d18aa0b8c6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bear Totem.prefab using Guid(d4e0eee7a5af34790880d18aa0b8c6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff82df059ce79aab7617fb7be763e9e') in 0.308088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Prefabs/Wolf Totem.prefab
+  artifactKey: Guid(83c5e17d8af2648378f4eabd131e0899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wolf Totem.prefab using Guid(83c5e17d8af2648378f4eabd131e0899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16980f65b287bccfa2c0514f07a40763') in 0.008038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Prefabs/Mound.prefab
+  artifactKey: Guid(7b241f4e9bc3d4f3eb4bcd596e2e65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mound.prefab using Guid(7b241f4e9bc3d4f3eb4bcd596e2e65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cedf2eae7a330b4ae2f35caa19a12cba') in 0.189986 seconds 

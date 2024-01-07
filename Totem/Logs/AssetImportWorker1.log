@@ -360,3 +360,33 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 351.225183 seconds.
+  path: Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_MaskMap.png
+  artifactKey: Guid(efb91a8110c84447682251e36006e6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem/Textures/WolfTotem_LowPoly_ZExp_DefaultMaterial_MaskMap.png using Guid(efb91a8110c84447682251e36006e6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4dd7e29e048de945413f181ccc5098') in 0.041359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 131.556572 seconds.
+  path: Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_MaskMap.png
+  artifactKey: Guid(f3d906946168d495eb8c02f127c45cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_MaskMap.png using Guid(f3d906946168d495eb8c02f127c45cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78308645e5d89ee2da08f618154b4991') in 0.015861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_Normal.png
+  artifactKey: Guid(9a8a7ce6d5b294b9a85e634513c0ee5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem/Textures/EagleTotem_LowPoly_ZExp_DefaultMaterial_Normal.png using Guid(9a8a7ce6d5b294b9a85e634513c0ee5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c11b409eb813688d27b00f667d7de9') in 0.009279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.121180 seconds.
+  path: Assets/Objects/Mound/Textures/Mound_LowPoly_ZExp_DefaultMaterial_MaskMap.png
+  artifactKey: Guid(ab9d5c08c1f6a4cc187b531a9e772378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Textures/Mound_LowPoly_ZExp_DefaultMaterial_MaskMap.png using Guid(ab9d5c08c1f6a4cc187b531a9e772378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c367011438042eea444f46af22a6fe') in 0.012751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 126.486813 seconds.
+  path: Assets/Prefabs/Eagle Totem.prefab
+  artifactKey: Guid(bfd589773d920489aad420e17f41b339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Eagle Totem.prefab using Guid(bfd589773d920489aad420e17f41b339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1219a030f0effcd958f752459dba1fa8') in 0.398558 seconds 
