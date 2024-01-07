@@ -313,3 +313,128 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1121.594484 seconds.
+  path: Assets/Objects/BearTotem.obj
+  artifactKey: Guid(f4e6335262f894d349e53657dc7a1d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/BearTotem.obj using Guid(f4e6335262f894d349e53657dc7a1d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47719599116b8be0c11ff8dc9541065') in 0.780109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.277440 seconds.
+  path: Assets/Objects/Bear Totem
+  artifactKey: Guid(b53c660f88723424cbd75dbdf09846a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Bear Totem using Guid(b53c660f88723424cbd75dbdf09846a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4d1a8d839ba0c9063b5e8ce3147301') in 0.001162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.380000 seconds.
+  path: Assets/Objects/Bear Totem/Textures
+  artifactKey: Guid(ca6e4f7b2f6e047b29628f4f74bd722e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Bear Totem/Textures using Guid(ca6e4f7b2f6e047b29628f4f74bd722e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e38f9a7fd5e968e804b5b24e6e9bbb') in 0.002461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.101007 seconds.
+  path: Assets/Objects/Bear Totem/Textures/BearTotem_LowPoly_ZExp_DefaultMaterial_BaseMap.png
+  artifactKey: Guid(dd69759ae3d9a4fde9294c09e61c3de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Bear Totem/Textures/BearTotem_LowPoly_ZExp_DefaultMaterial_BaseMap.png using Guid(dd69759ae3d9a4fde9294c09e61c3de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01b030b913e2693cfa0a126dd59089a') in 0.399765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.689742 seconds.
+  path: Assets/Objects/NewBehaviourScript.cs
+  artifactKey: Guid(1c9228fef65824c57a1b94b8b557e2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/NewBehaviourScript.cs using Guid(1c9228fef65824c57a1b94b8b557e2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecbe657b5afff4f2a9165582d3320ae1') in 0.118784 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002280 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x290287000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/bradmorrison/GitHub/Totem/Totem/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/bradmorrison/GitHub/Totem/Totem/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.560 seconds
+Domain Reload Profiling:
+	ReloadAssembly (561ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (417ms)
+			LoadAssemblies (40ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (161ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (171ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (35ms)
+				ProcessInitializeOnLoadAttributes (109ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3066 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (22.1 KB). Loaded Objects now: 3599.
+Memory consumption went from 117.5 MB to 117.5 MB.
+Total: 2.020083 ms (FindLiveObjects: 0.101041 ms CreateObjectMapping: 0.039334 ms MarkObjects: 1.865416 ms  DeleteObjects: 0.013791 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 10.310757 seconds.
+  path: Assets/Objects/Wolf Totem
+  artifactKey: Guid(220f0f8205198495d86187df152c807f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Wolf Totem using Guid(220f0f8205198495d86187df152c807f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383044cd8f26d0c751adf19baae41328') in 0.004652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.872294 seconds.
+  path: Assets/Objects/Eagle Totem
+  artifactKey: Guid(9d10e26819dc04c8c969dde63e9398c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem using Guid(9d10e26819dc04c8c969dde63e9398c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e5f9078bfee10db6e9a63b1e6fc267') in 0.000630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.869300 seconds.
+  path: Assets/Objects/Eagle Totem/EagleTotem.obj
+  artifactKey: Guid(f9cc53b82b3a446cfbb094d97741de7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem/EagleTotem.obj using Guid(f9cc53b82b3a446cfbb094d97741de7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4810b2266fc4dc1d8f191752216ae83b') in 0.058213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.285342 seconds.
+  path: Assets/Objects/Eagle Totem/Textures
+  artifactKey: Guid(4bb3de08f81be4d8085135ef46bc6137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Eagle Totem/Textures using Guid(4bb3de08f81be4d8085135ef46bc6137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199a24069df4730174e67eab67a53015') in 0.000634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.560857 seconds.
+  path: Assets/Objects/Mound
+  artifactKey: Guid(63802a9e6ea5c4cf1bb37b89590f9a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound using Guid(63802a9e6ea5c4cf1bb37b89590f9a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890ae4f0593a0e4c99b0155a8e6e113a') in 0.000641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.887971 seconds.
+  path: Assets/Objects/Mound/Mound.obj
+  artifactKey: Guid(9ab1e752bc89146ce8238cf4db5ba74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Mound/Mound.obj using Guid(9ab1e752bc89146ce8238cf4db5ba74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4ebfc8bc2342c88b7f15b74941d2e7') in 0.014464 seconds 
